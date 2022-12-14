@@ -1,0 +1,15 @@
+======
+Model: LinearRegression
+Score: 0.7530631504321611
+MSE: 0.2390586995465021
+Predict Time: 0.0
+======
+Model: DecisionTreeRegressor
+Score: 0.5538300864782459
+MSE: 0.43193553125
+Predict Time: 0.0
+======
+Model: RandomForestRegressor
+Score: 0.7609175073110189
+MSE: 0.2314549241499992
+Predict Time: 0.007935047149658203
