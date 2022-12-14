@@ -1,0 +1,21 @@
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+=====================================
+Model: LinearRegression
+Score: 0.753063150432161
+MSE: 0.2390586995465022
+Els millors parametres: {'copy_X': True, 'fit_intercept': True, 'positive': True}
+Predict Time: 0.00020074844360351562
+Fitting 3 folds for each of 4224 candidates, totalling 12672 fits
+=====================================
+Model: DecisionTreeRegressor
+Score: 0.6383880692450659
+MSE: 0.35007524416895747
+Els millors parametres: {'max_depth': 13, 'max_features': 'sqrt', 'max_leaf_nodes': 80, 'min_weight_fraction_leaf': 0.1, 'splitter': 'best'}
+Predict Time: 0.0
+Fitting 3 folds for each of 100 candidates, totalling 300 fits
+=====================================
+Model: RandomForestRegressor
+Score: 0.7969086991833492
+MSE: 0.19661197730271543
+Els millors parametres: {'n_estimators': 600, 'min_samples_split': 4, 'min_samples_leaf': 1, 'max_features': 'sqrt', 'max_depth': 110, 'bootstrap': True}
+Predict Time: 0.02191758155822754
